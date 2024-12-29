@@ -1,22 +1,22 @@
 [
   {
     "name": "Frisk Luft",
-    "url": "https://friskluft.ketilmo.no/ghost/api/",
+    "url": "https://friskluft.ketilmo.no/",
     "icon": "https://icons.duckduckgo.com/ip3/friskluft.ketilmo.no.ico",
     "slug": "frisk-luft",
-    "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 160,
-    "timeDay": 160,
-    "timeWeek": 160,
-    "timeMonth": 160,
-    "timeYear": 160,
+    "status": "up",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 381,
+    "timeDay": 381,
+    "timeWeek": 381,
+    "timeMonth": 381,
+    "timeYear": 381,
     "dailyMinutesDown": {
-      "2024-12-29": 170
+      "2024-12-29": 195
     }
   }
 ]
