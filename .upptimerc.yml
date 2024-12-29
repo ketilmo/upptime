@@ -4,7 +4,10 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Frisk Luft
-    url: https://friskluft.ketilmo.no/
+    url: https://friskluft.ketilmo.no/ghost/api/
+    headers:
+      - "CF-Access-Client-Id: &FL_CLIENT_ID"
+      - "CF-Access-Client-Secret: &FL_CLIENT_SECRET"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
