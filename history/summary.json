@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/friskluft.ketilmo.no.ico",
     "slug": "frisk-luft",
     "status": "up",
-    "uptime": "57.30%",
-    "uptimeDay": "57.30%",
-    "uptimeWeek": "57.30%",
-    "uptimeMonth": "57.30%",
-    "uptimeYear": "57.30%",
-    "time": 489,
-    "timeDay": 489,
-    "timeWeek": 489,
-    "timeMonth": 489,
-    "timeYear": 489,
-    "dailyMinutesDown": {
-      "2024-12-29": 195
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 617,
+    "timeDay": 617,
+    "timeWeek": 617,
+    "timeMonth": 617,
+    "timeYear": 617,
+    "dailyMinutesDown": {}
   }
 ]
