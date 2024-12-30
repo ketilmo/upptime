@@ -4,19 +4,19 @@
     "url": "https://friskluft.ketilmo.no/",
     "icon": "https://icons.duckduckgo.com/ip3/friskluft.ketilmo.no.ico",
     "slug": "frisk-luft",
-    "status": "down",
-    "uptime": "93.19%",
-    "uptimeDay": "92.08%",
-    "uptimeWeek": "93.19%",
-    "uptimeMonth": "93.19%",
-    "uptimeYear": "93.19%",
-    "time": 2746,
-    "timeDay": 5069,
-    "timeWeek": 2746,
-    "timeMonth": 2746,
-    "timeYear": 2746,
+    "status": "up",
+    "uptime": "91.00%",
+    "uptimeDay": "89.29%",
+    "uptimeWeek": "91.00%",
+    "uptimeMonth": "91.00%",
+    "uptimeYear": "91.00%",
+    "time": 2635,
+    "timeDay": 4570,
+    "timeWeek": 2635,
+    "timeMonth": 2635,
+    "timeYear": 2635,
     "dailyMinutesDown": {
-      "2024-12-30": 114
+      "2024-12-30": 154
     }
   }
 ]
